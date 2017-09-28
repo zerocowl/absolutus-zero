@@ -14,31 +14,31 @@ A informação é avaliada com base no MANIFESTO DE CLASSIFICAÇÃO, depois é d
 # Grupos
  > ##  Projeto
  Um projeto é um processo que demanda mais tempo e possui sempre ao menos uma trilha, ele não possui um prazo e só pode ser considerado como concluido quando todas as suas trilhas forem finalizadas com sucesso.  
- Um exemplo de projeto é _Aprender um segundo idioma_
+ ``Um exemplo de projeto é _Aprender um segundo idioma_ ``
 
 
 > ## Informação
 Todo conteudo que é considerado como sendo util e que NÃO esteja relacionado de forma direta a uma tarefa é considerado uma informação.  
-Um exemplo de informação é _Um artigo sobre processos economicos_
+``Um exemplo de informação é _Um artigo sobre processos economicos_`` 
 
 > ## Ação
 Toda tarefa que possa ser realizada em um tempo inferior a **10 minutos**.
 
 ## SubGrupos
 > ## Trilha
-    É um conjunto de METAS com um prazo final para que todas sejam concluidas, é considerada como concluida com sucesso quando todas as suas METAS são finalizadas dentro do prazo.  
-
-Um exemplo de TRILHA: _Playlist sobre DDD_
+É um conjunto de METAS com um prazo final para que todas sejam concluidas, é considerada como concluida com sucesso quando todas as suas METAS são finalizadas dentro do prazo.  
+``Um exemplo de TRILHA: _Playlist sobre DDD_``
 > ## Meta
-    É o objetivo de duas ou mais tarefas, sendo que uma meta só esta concluida quando todas as suas TAREFAS forem concluidas,
-    Uma meta possui um grau de importancia que dertermina o quanto esta deve ser priorizada em comparação as outras da mesma TRILHA.
-Um exemplo de META: _Chegar a 30% no Duolingo_
-> ## Tarefa
-    É uma ação que deve ser classificada com base em sua DURAÇÃO, desse modo pode-se determinar se ela é:
-     - Continua: A mesma tarefa sendo repetida diariamente dentro de um determinado periodo que pode ou não ter um termino previsto
-     - Simples: Um tarefa que pode ser executada dentro de 24 horas, sem dependencias de terceiros
+ É o objetivo de duas ou mais tarefas, sendo que uma meta só esta concluida quando todas as suas TAREFAS forem concluidas,
+ Uma meta possui um grau de importancia que dertermina o quanto esta deve ser priorizada em comparação as outras da mesma TRILHA.  
+ `` Um exemplo de META: _Chegar a 30% no Duolingo_ ``
 
-Um exemplo de TAREFA: _Assistir a aula de C# no [Pluralsight]( pluralsight.com)_
+> ## Tarefa
+É uma ação que deve ser classificada com base em sua DURAÇÃO, desse modo pode-se determinar se ela é:
+ - Continua: A mesma tarefa sendo repetida diariamente dentro de um determinado periodo que pode ou não ter um termino previsto
+ - Simples: Um tarefa que pode ser executada dentro de 24 horas, sem dependencias de terceiros  
+
+``Um exemplo de TAREFA: _Assistir a aula de C# no [Pluralsight]( pluralsight.com)_``
 
 
 
@@ -50,6 +50,6 @@ Um exemplo de TAREFA: _Assistir a aula de C# no [Pluralsight]( pluralsight.com)_
 
 ## Projeto PWA [_Em Progresso_]
 
-     O objetivo é criar um Dashboard com todas as informações sobre os projetos com integração ao Trello e o Google Calendar
+ O objetivo é criar um Dashboard com todas as informações sobre os projetos com integração ao Trello e o Google Calendar
 
 
