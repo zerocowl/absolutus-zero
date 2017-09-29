@@ -44,19 +44,19 @@ Toda tarefa que possa ser realizada em um tempo inferior a **10 minutos**. Taref
 ---
 
 ## Fluxo de Categorização
-![Fluxograma](docs/manifesto.png)
+![Fluxograma](imgs/manifesto.png)
 ---
 ## Fluxo de Distribuição
-![Fluxograma](docs/dist.png)
+![Fluxograma](imgs/dist.png)
 
 ## Documentos Importantes
 - [MODELO DO FLUXO DE INFORMAÇÕES](https://coggle.it/diagram/Wc0tvUyLwQABrKsl)  
 - [MODELO DO FLUXO DE DISTRUIÇÃO](https://coggle.it/diagram/Wc55LSY9AQABlewQ)
 - MANIFESTO DE CLASSIFICAÇÃO
-
+- [PROCESSOS COMUNS](docs/processos.md)
 
 ## Projeto PWA [_Em Progresso_]
 
- O objetivo é criar um Dashboard com todas as informações sobre os projetos com integração ao Trello e o Google Calendar
+ O objetivo é criar um Dashboard com todas as informações sobre os projetos com integração ao Trello e o Google Calendar.
 
 
