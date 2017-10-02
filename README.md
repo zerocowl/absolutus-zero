@@ -22,7 +22,7 @@ Todo conteudo que é considerado como sendo util e que NÃO esteja relacionado d
 **Um exemplo de INFORMAÇÃO é** _Um artigo sobre processos economicos_
 
 > ## Ação
-Toda tarefa que possa ser realizada em um tempo inferior a **10 minutos**. Tarefas que dependem de terceiros são classificadas como LEMBRETES
+Toda tarefa que possa ser realizada em um tempo inferior a **10 minutos**. Tarefas que dependem de terceiros são classificadas como LEMBRETES  
 **Um exemplo de AÇÃO é** _Pagar uma conta no caixa_
 
 ## SubGrupos
