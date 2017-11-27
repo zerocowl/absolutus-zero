@@ -52,7 +52,7 @@ Toda tarefa que possa ser realizada em um tempo inferior a **10 minutos**. Taref
 ## Documentos Importantes
 - [MODELO DO FLUXO DE INFORMAÇÕES](https://coggle.it/diagram/Wc0tvUyLwQABrKsl)  
 - [MODELO DO FLUXO DE DISTRUIÇÃO](https://coggle.it/diagram/Wc55LSY9AQABlewQ)
-- MANIFESTO DE CLASSIFICAÇÃO
+- [MANIFESTO DE CLASSIFICAÇÃO](manifestos/manifesto.md)
 - [PROCESSOS COMUNS](docs/processos.md)
 
 ## Projeto PWA [_Em Progresso_]
